@@ -1,2 +1,2 @@
 # Shepherd-s-Realm
-A emotion-symbol diffusion model
+An emotion-symbol diffusion model
